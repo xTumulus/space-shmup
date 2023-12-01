@@ -116,7 +116,7 @@ public class Enemy : MonoBehaviour
   void UnshowDamage() {
     // print("unshowing damage");
     for (int i = 0; i < materials.Length; i++) {
-      materials[i].color = originalColors[i];
+      materials[i].color = Color.white;
     }
   }
 
