@@ -2334,7 +2334,6 @@ struct Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65  : public RuntimeObject
 {
 	String_t* ___name;
 	float ___health;
-	StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* ___protectedBy;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___gameObject;
 	Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* ___material;
 };
@@ -15887,9 +15886,9 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2038[4] =
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2039[3] = 
 {
 	static_cast<int32_t>(offsetof(Enemy_3_tCD036DB8D7D21E760E3628CA0E2C4F5048CCDFF0, ___points)),static_cast<int32_t>(offsetof(Enemy_3_tCD036DB8D7D21E760E3628CA0E2C4F5048CCDFF0, ___birthTime)),static_cast<int32_t>(offsetof(Enemy_3_tCD036DB8D7D21E760E3628CA0E2C4F5048CCDFF0, ___lifeTime)),};
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2040[5] = 
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2040[4] = 
 {
-	static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___name)),static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___health)),static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___protectedBy)),static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___gameObject)),static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___material)),};
+	static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___name)),static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___health)),static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___gameObject)),static_cast<int32_t>(offsetof(Part_t1F47965C0D676938BB243F5C92ABDC5B92056E65, ___material)),};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable2041[4] = 
 {
 	static_cast<int32_t>(offsetof(Enemy_4_t643AA2E51D845746BE8616835BBBFE45CE523C70, ___points)),static_cast<int32_t>(offsetof(Enemy_4_t643AA2E51D845746BE8616835BBBFE45CE523C70, ___timeStart)),static_cast<int32_t>(offsetof(Enemy_4_t643AA2E51D845746BE8616835BBBFE45CE523C70, ___duration)),static_cast<int32_t>(offsetof(Enemy_4_t643AA2E51D845746BE8616835BBBFE45CE523C70, ___parts)),};
