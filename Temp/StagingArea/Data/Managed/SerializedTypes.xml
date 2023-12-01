@@ -1,6 +1,0 @@
-<linker>
-	<assembly fullname="Assembly-CSharp">
-		<type fullname="Part" preserve="nothing" serialized="true"/>
-		<type fullname="WeaponDefinition" preserve="nothing" serialized="true"/>
-	</assembly>
-</linker>
